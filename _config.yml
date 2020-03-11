@@ -11,13 +11,13 @@ minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "en"
-title                    : "Shreya Gopal"
+title                    : "Shreya Gopal Sundari"
 title_separator          : "-"
 name                     : "Shreya Gopal Sundari"
 description              : "My Personal Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # andhint/andhint.github.io"
+repository               : shreyagopal/shreyagopal.github.io"
 teaser                   : #"/images/USA_Bhavesh.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -81,12 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Shreya Gopal"
-  avatar           : "/assets/images/bhavesh.jpeg"
-  bio              : "40 under 40 Data Scientist, Google Develeoper Expert in ML, Educator, Trainer, YouTube Creator"
-  #bio             : "Data Scientist, Google Develeoper Expert in ML, Data Scientist, Educator, Trainer, YouTube Creator"
-  #bio             : "Data Scientist, Google Develeoper Expert in ML, YouTube Creator"
-  #bio             : "Data Scientist, Educator, Trainer, YouTube Creator"
-  location         : "Mumbai, India"
+  avatar           : "/assets/images/shreya.jpeg"
+  bio              : "Data Science Grad student@University of New Haven, Interested in NLP and ML within the scope of cybersecurity."
+  location         : "CT, USA"
   target-blank     : "ext-link"
   email            : "sundarishreyagopal@gmail.com"
   youtube          : 
@@ -108,7 +105,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "_bhaveshbhatt"
+  twitter          : "shreyasparks"
   vine             :
   weibo            :
   xing             :
