@@ -11,9 +11,9 @@ minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "en"
-title                    : "Bhavesh Bhatt"
+title                    : "Shreya Gopal"
 title_separator          : "-"
-name                     : "Bhavesh Bhatt"
+name                     : "Shreya Gopal Sundari"
 description              : "My Personal Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bhavesh Bhatt"
+  name             : "Shreya Gopal"
   avatar           : "/assets/images/bhavesh.jpeg"
   bio              : "40 under 40 Data Scientist, Google Develeoper Expert in ML, Educator, Trainer, YouTube Creator"
   #bio             : "Data Scientist, Google Develeoper Expert in ML, Data Scientist, Educator, Trainer, YouTube Creator"
@@ -88,8 +88,8 @@ author:
   #bio             : "Data Scientist, Educator, Trainer, YouTube Creator"
   location         : "Mumbai, India"
   target-blank     : "ext-link"
-  email            : "emailbhaveshbhatt@gmail.com"
-  youtube          : "https://www.youtube.com/BhaveshBhatt8791"
+  email            : "sundarishreyagopal@gmail.com"
+  youtube          : 
   uri              :
   bitbucket        :
   codepen          :
@@ -97,12 +97,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bhattbhavesh91"
+  github           : "shreyagopal"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "bhattbhavesh91"
+  linkedin         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
