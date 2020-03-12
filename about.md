@@ -13,7 +13,7 @@ comments: false
 <!---I am a Data Scientist based out of Mumbai, India. Currently working at Cuddle.ai where I focus on building time series anomaly detection algorithms. My primary interests include Computer Vision, Machine Learning, Deep Learning.
 -->
 
-Currently, I am a Data Science Graduate student at the University of New Haven in Connecticut, US. My primary interests include Natural Language Processing, Machine Learning, Deep Learning.
+At present I am a Data Science Graduate student at the University of New Haven in Connecticut, US. My primary interests include Natural Language Processing, Machine Learning, Deep Learning.
 
 Along with my course curriculum, I am also doing research in Cyber Threat Intelligence detection in OSINT with Machine Learning and Neural Networks models. My research interests lie in the application of data science to cybersecurity. 
 
