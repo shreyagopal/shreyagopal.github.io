@@ -21,7 +21,7 @@ I am also a Teaching Assistant to Artificial Intelligence course at my universit
 
 I did my postgraduate degree in Computer Science and Engineering at Sree Vidyanikethan Engineering College, India in 2016.
 
-My first professional working exposure is at Wipro Technologies in Bangalore, India as a Security Analyst. My work included Vulnerability Management, Targeted Threat Intelligence and Automation in Python. 
+My first professional working exposure is at Wipro Technologies in Bangalore, India as a Security Analyst. My work included Vulnerability Management, Targeted Threat Intelligence delivery and Automation in Python. 
 
 ## Find Me @
 <a href="https://twitter.com/shreyagopal" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/tw.png" width="30"></a>
