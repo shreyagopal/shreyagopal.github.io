@@ -9,15 +9,15 @@ title: "About Me"
 <!---I am a Data Scientist based out of Mumbai, India. Currently working at Cuddle.ai where I focus on building time series anomaly detection algorithms. My primary interests include Computer Vision, Machine Learning, Deep Learning.
 -->
 
-Currently, I am a Data Science Graduate student at the University of New Haven in Connecticut, US. My primary interests include NAtural Language Processing, Machine Learning, Deep Learning.
+Currently, I am a Data Science Graduate student at the University of New Haven in Connecticut, US. My primary interests include Natural Language Processing, Machine Learning, Deep Learning.
 
-Along with my course curriculum, I am also doing research in Cyber Threat Intelligence detection in OSINT with MAchine Learning and Neural Networks models. My research interests lie in the application of data science to cybersecurity. 
+Along with my course curriculum, I am also doing research in Cyber Threat Intelligence detection in OSINT with Machine Learning and Neural Networks models. My research interests lie in the application of data science to cybersecurity. 
 
 I am also a Teaching Assistant to Artificial Intelligence course at my university.
 
 I did my postgraduate degree in Computer Science and Engineering at Sree Vidyanikethan Engineering College, India in 2016.
 
-My first working exposure is at Wipro Technologies in Bangalore, India as a Security Analyst. My work included Vulnerability Management, Targeted Threat Intelligence and Automation in Python. 
+My first professional working exposure is at Wipro Technologies in Bangalore, India as a Security Analyst. My work included Vulnerability Management, Targeted Threat Intelligence and Automation in Python. 
 
 ## Follow Me
 <a href="https://twitter.com/shreyagopal" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/tw.png" width="30"></a>
