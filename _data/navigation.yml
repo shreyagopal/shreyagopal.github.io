@@ -6,6 +6,8 @@ main:
     url: /projects/
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Data Science Resources"
+    url: /datascienceresources/
   - title: "Contact"
     url: /contact/
   # - title: "Sample Posts"
