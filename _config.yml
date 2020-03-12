@@ -177,9 +177,9 @@ sass:
 # target-blank:
 #   css_class: ext-link
 
-target-blank:
-    noopener: false
-    rel: noopener
+#target-blank:
+ #   noopener: false
+  #  rel: noopener
 
 # Outputting
 permalink: /:categories/:title/
@@ -187,8 +187,8 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-plugins:
-  - jekyll-target-blank
+#plugins:
+ # - jekyll-target-blank
 
 # Plugins
 gems:
@@ -198,7 +198,7 @@ gems:
   - jekyll-feed
   - jemoji
   - jekyll-seo-tag
-  - jekyll-target-blank
+ # - jekyll--blank
 
 # mimic GitHub Pages with --safe
 whitelist:
