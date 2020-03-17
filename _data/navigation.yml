@@ -1,15 +1,15 @@
 # main links
 main:
   - title: "About Me"
-    url: /about/
+    url: https://shreyagopal.github.io/about/
   - title: "Projects"
-    url: /projects/
+    url: https://shreyagopal.github.io/projects/
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://shreyagopal.github.io/portfolio/
   - title: "Data Science Resources"
-    url: /datascienceresources/
+    url: https://shreyagopal.github.io/datascienceresources/
   - title: "Contact"
-    url: /contact/
+    url: https://shreyagopal.github.io/contact/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
