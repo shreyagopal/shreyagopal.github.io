@@ -101,25 +101,25 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-	  url: mailto:sundarishreyagopal@gmail.com
+      url: sundarishreyagopal@gmail.com
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-	  url: "https://twitter.com/shreyasparks"
+      url: https://twitter.com/shreyasparks
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-	  url: "https://github.com/shreyagopal/"
+      url: https://github.com/shreyagopal/
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-	  url: "https://www.instagram.com/shreya_sundari/"
+      url: https://www.instagram.com/shreya_sundari/
       # url: "https://instagram.com/"
 
 # Site Footer
