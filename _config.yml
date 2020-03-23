@@ -17,7 +17,7 @@ name                     : "Shreya Gopal Sundari"
 description              : "My Website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : shreyagopal/shreyagopal.github.io"
+repository               : 
 teaser                   : #"/images/USA_Bhavesh.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
