@@ -7,7 +7,7 @@ Feel free to connect with me via
 
 **Email** : sundarishreyagopal@gmail.com
 
-**GitHub** : https://github.com/shreyagopal/
+**LinkedIn** : https://www.linkedin.com/in/shreya-gopal-sundari
 
 ## Find Me @
 <a href="https://twitter.com/shreyagopal" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/tw.png" width="30"></a>
