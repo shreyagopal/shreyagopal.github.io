@@ -16,8 +16,9 @@ Along with my course curriculum, I am also doing research in Cyber Threat Intell
 I did my postgraduate degree in Computer Science and Engineering at Sree Vidyanikethan Engineering College, India in 2016.
 
 My first professional working exposure is at Wipro Technologies in Bangalore, India as a Security Analyst. My work included Vulnerability Management, Targeted Threat Intelligence delivery and Automation in Python. 
-
+<!---
 ## Find Me @
-<!---<a href="https://twitter.com/shreyagopal" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/tw.png" width="30"></a>-->
+<a href="https://twitter.com/shreyagopal" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/tw.png" width="30"></a>
 <a href="https://github.com/shreyagopal" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/gthb.png" width="30"></a>
 <a href="https://www.linkedin.com/in/shreya-gopal-sundari-03a56519a" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/lnkdn.png" width="30"></a>
+-->
